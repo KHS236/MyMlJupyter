@@ -1,0 +1,52 @@
+docker compose up
+
+Ctrl+C 종료
+docker compose down
+
+
+docker ps
+프로세스 정보
+
+docker exec -it 19529091bcb6
+
+
+docker images
+
+docker ps
+
+docker ps -a
+
+이전 기록? 아무것도 안 떠야함
+이상태로 docker compose up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
